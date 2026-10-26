@@ -42,3 +42,50 @@ HOOKS.md templates are exempt. A hook may use "isn't X". These rules cover the b
 
 16. Chat residue in the post. "Great question!", "Here is your post:", "I hope this helps", "Want me to...?". Cut. Replies to the user follow TOKEN_SAVING.md.
 17. Guesses. "likely", "it is believed", "based on available information". Say what the source shows, or cut.
+
+## Share-post tells
+
+Lines that vouch for a post or claim a feeling before the reader has a reason to care. Cut them and open on the thing itself.
+
+- Sign-offs: "Save this for later", "Must-read", "Don't sleep on this", "Thank me later", "This one is worth your time".
+- Lingering attention: "The line I keep coming back to", "I can't stop thinking about this". Keep it only if a reason follows. "I keep coming back to X because it predicts Y" is fine.
+- Announced feelings: "What surprised me most", "I was fascinated to find", "Interesting part:". Show the surprising fact. Skip the label.
+- Example: "What surprised me most: it took 2 hours." becomes "It took 2 hours."
+
+## Candor and question openers
+
+- Announced honesty: "To be fully transparent", "I want to be upfront", "Being honest about the limits". Write the admission itself: "I have not tested this on Windows." Real admissions stay.
+- Body openers that ask a question and then answer it: "So why does this matter?", "What does this mean for you?". Say the answer. Hooks are exempt.
+
+## Never add
+
+Humanizing may remove tells. It may never put new ones in.
+
+- No fake "I". If the user gave no story, do not write "In my experience" or "I have seen this a hundred times".
+- No invented stakes: "In a world where", "now more than ever".
+- No forced contrarian take: "Everyone says X, but they are wrong". Use it only if the user said it.
+- No chopped sentences. Do not break normal sentences into fragments for rhythm.
+- No new number, name, date, or tool. Missing detail? Ask the user.
+
+## Flat fact
+
+A hard moment goes in as a dated, flat fact. No frame before or after it.
+
+- Good: "We lost the client on 14 Feb."
+- Bad: "I'll be honest, this hurt: we lost the client."
+- No date or fact from the user? Ask. Never invent one.
+
+## Paragraph density
+
+Count AI words per paragraph, not per post. Words: significant, crucial, notably, comprehensive, insights, robust, leverage, foster, landscape, nuanced, streamline, elevate, empower, holistic. A sentence that opens with an "-ing" clause ("Leveraging X, we...") counts as one.
+
+- One in a paragraph: leave it.
+- Three or more: rewrite that paragraph.
+
+## Banned phrases
+
+- "Stop X, start Y" as an opener.
+- "Comment X to get Y".
+- "Tag someone who needs this".
+- "deep dive".
+- "fundamentally".

@@ -1,6 +1,6 @@
 # HOOK SKILL
 
-11 hook types. Each has an explanation, templates, and rules. Fill every [slot] from the user's real facts. Never copy a template's example facts. Templates marked (personal) need the user's own real event or number.
+12 hook types. Each has an explanation, templates, and rules. Fill every [slot] from the user's real facts. Never copy a template's example facts. Templates marked (personal) need the user's own real event or number.
 
 ## Structure
 
@@ -14,15 +14,36 @@ Example: "I create 40 pieces of content per week. Here are my 7 repurposing tact
 Rules:
 
 - Max 2 lines. Shorter is fine.
+- Write for the phone. The claim must land in the first 140 characters. The "see more" cut is at about 140 characters on mobile and about 210 on desktop.
 - After the hook, leave 2 blank lines. The body then drops behind "see more". Keep the blank lines in the final post.
 - Specific. Clear numbers. Name the exact thing: "7 repurposing tactics", not "some tips".
 - No introduction. No fluff. Straight to the point.
 - Can be personal: a real number from the user's own work.
 - Personal numbers come from the user only.
 
+## MATERIAL TEST
+
+Before the hook, check the user gave at least one real thing: a dated moment, a number with the thing it counts, or a position they hold and what it costs them. None? Ask for one. Max 3 questions. Never fill it in.
+
+- Passes: "Lost a client in March 2026."
+- Fails: "I learned a lot."
+
 ## MODE
 
-Write 3 hooks for the chosen idea, each a different type. Label the type. Ask the user which to use.
+Write 3 hooks for the chosen idea, each a different type. Pick types that fit the post goal (GOAL FIT below). Label the type. Ask the user which to use.
+
+## GOAL FIT
+
+What each goal tends to earn. These are patterns seen in 2026 posts, not a promise.
+
+| Goal | Hook types that tend to fit |
+|---|---|
+| Comments | 4 Controversial statement, 10 Story, 12 Poll |
+| Reposts | 8 Emotional agreement, 11 X vs Y, 4 Controversial statement |
+| Likes | 10 Story, 5 Unexplained contrast, 8 Emotional agreement |
+| Saves | 2 Value promise, 3 Proof, 9 Surprising fact |
+
+If the user gave no goal, ask once. Still none? Use the idea to decide.
 
 ## 1. Credibility jacking
 
@@ -57,6 +78,16 @@ Templates:
 - "[Topic] explained to [simple audience]."
 - "How to (actually) [do thing]: a simple guide to [result]."
 - "If you want to [big result] ([objection answered, e.g. I'm not kidding]), read this:"
+- "[Group] use [thing] to [do X]. Here are [N] [concepts] you need to know:"
+- "The most efficient [niche] [framework] for [year]:" then step 1 on the next line.
+- "Here's your [N]-week [plan] (to start your [result] in [year]):"
+- "[N] reasons to start [thing] in [year]:"
+- "This is the winning [niche] [playbook] for [year]. Let me break it down for you with [N] pillars:"
+- "If you want [audience] to [goal]: you should first answer these [N] questions:"
+- "Here's what you don't need to start [thing]:" then a short list of false needs.
+- "[Small input] = [big output]. Here is the [N]-step system to [get it]:"
+- "I talk with a lot of [people] who:" then a short list of their shared problems.
+- "[Doing X] rewards you [N] times:" then a numbered list, short term first.
 
 Rules:
 
@@ -78,6 +109,19 @@ Templates:
 - "I've trained [N]+ [people] to [do thing]. Most struggled with the SAME [problem]:"
 - "In the last [N] years, over [N] people have asked me [question]."
 - "In [year], I had [low number]. Today [real result]. Here's how I got there:" (personal)
+- "This week we published a viral [thing] ([N] impressions) on [topic]. Here are the [N] reasons why it worked:" (personal)
+- "[Group] struggle to [do thing] in [year]. I've audited [N] of them, here are the top [N] problems:" (personal)
+- "I've coached over [N] [people] in the past [time]. The market is moving, here are [N] priorities to focus on:" (personal)
+- "My [business] made over [real result] from [thing]. Here are the [N] types of [thing] for [goal]:" (personal)
+- "I've audited over [N] [things]. My advice: ask yourself THIS question:" (personal)
+- "My [thing] just hit [real milestone]. [N] rules I wish I knew when I started in [year]:" (personal)
+- "I've invested over [N] hours in [field]. Here are my [N] golden rules to [goal]:" (personal)
+- "I've been a [role] for [N] years. Here's the biggest [problem] I've seen:" (personal)
+- "I've helped over [N] [clients] in the past [time]. In [year], I see [group] make the biggest mistake:" (personal)
+- "I've been doing [field] for [N] years. These [N] concepts made me a better [role]:" (personal)
+- "Every week, [group] come to me with this problem:" then their quote. (personal)
+- "I've helped over [N] [clients] with [field]. Here are the [N] rules to build your [result]:" (personal)
+- "In [month, year], a lot of [people] come to me saying "[their complaint]". When I audit their [thing], I usually spot this ONE major problem:" (personal)
 
 Rules:
 
@@ -96,6 +140,14 @@ Templates:
 - "[People] don't [common thing]. [What really happens]."
 - "I'm frustrated by the [topic] [things] floating around."
 - "[N] [subjects or things] that should be mandatory in [institution]."
+- [Role]: "[common phrase]." Then: "This is the worst [niche] mindset for [N] reasons:"
+- "Good news: the [quality bar] for [niche] is low in [year]. That means it's easier to [goal]:"
+- "Too many [group] start from "[common approach]". Here are the [N] [things] they're missing:"
+- "Too many [group] [do wrong thing] and call it "[good-sounding term]"."
+- '"[Common belief]" Good in theory, but here are [N] problems:'
+- '"[Common demand]" These expectations come from one false belief:'
+- "Every [group] wants to [goal]. But most of them fall into this ONE trap:"
+- "Many [group] confuse [A] with [B]:" then a short list of how.
 
 Rules:
 
@@ -148,6 +200,10 @@ Templates:
 - "Stop doing [thing] or you'll never [goal]."
 - "[Good thing] isn't enough anymore."
 - "[N] [habits or things] you must break to become your best [self]."
+- "In [year], [group] have developed a [new defense]. So now, you can't:"
+- "Biggest mistake I see in [niche] [topic]:" then "(Read this to avoid [cost] in [year])"
+- "Your [thing] needs [X]. Otherwise, this problem will happen:"
+- "Your [thing] will plateau in [year]. Unless you add these [N] [tactics] to [result]:"
 
 Rules:
 
@@ -189,6 +245,7 @@ Templates:
 - "[N]% of [thing] worldwide is [lost or wasted]. That's about [big concrete number]."
 - "[Big brand] published (and soon deleted) [thing]."
 - "If your [business] was worth [amount], would you donate [amount] to [cause]?"
+- '[Year] is the "[coined term]" of [niche]. Let's rewind [N] years to see where it's coming from:'
 
 Rules:
 
@@ -208,6 +265,9 @@ Templates:
 - "I [bold decision] with [counterintuitive condition]..." (personal)
 - "This was the EXACT moment I knew [realization]." (personal)
 - '[Role]: "[their line]" Me: "[start of your answer]:"' (personal)
+- "[N] weeks ago I had dinner with [N] [group]. I noticed [N] traits they all shared:" (personal)
+- "We went from [start] to [result] in [time]. But for a long time, I made one mistake that cost me a lot:" (personal)
+- "I've just arrived in [place], and I'm looking to meet: [list of who]" (personal)
 
 Rules:
 
@@ -223,11 +283,29 @@ Templates:
 
 - "Nobody will remember: [list]. People will remember: [list]."
 - "Bad [role] [do X]. Good [role] [do Y]. Great [role] [do Z]."
+- "[Thing] "plan" vs what actually happens:" Visual: a meme or funny image.
+- "[A] and [B] have one BIG difference:" then "(Yet many [group] think they're "similar")"
 
 Rules:
 
 - Pick a common enemy the audience shares.
 - Keep lists short.
+
+## 12. Poll
+
+Ask one question the audience answers in one tap. Each vote is engagement, and the result gives you a follow-up post.
+
+Templates:
+
+- "Have you [done the trending thing] for [task]?" Options: "Yes, already using it" / "Yes, building it now" / "Not yet, going to" / "No, not going to".
+- "[Which one] matters more for [goal]?" Options: [A] / [B] / [C] / Other.
+
+Rules:
+
+- The question is the post text. Keep it to one line.
+- Give 3 to 4 options. Cover every honest answer.
+- Pick a topic the audience cares about right now.
+- Never invent poll results. Report the real result in a follow-up post.
 
 ## Combo
 

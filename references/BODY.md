@@ -12,9 +12,8 @@ After the hook comes the body. First lines pay off the hook's open loop. No dela
 ## Layout
 
 - 1-2 lines. Then a blank line. Repeat.
-- Lists: use bullets or numbers.
-  - Numbers for steps and rankings: 1. 2. 3.
-  - Bullets for parallel points. Use only these: • (dot), ➤, or -. Mix styles across the post.
+- Lists: always bullets. Never numbers (1. 2. 3.) unless the user asks.
+  - Use only these: • (dot), ➤, or -. Mix styles across the post.
   - One style per list.
 - No other bullet symbols. No emoji bullets.
 - ALL CAPS for one key word or short phrase that needs a push. Never a whole line.
