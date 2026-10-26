@@ -1,0 +1,26 @@
+name: Verify skill
+
+on:
+  pull_request:
+    branches: [main, master]
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Check no credentials are tracked
+        run: python3 scripts/check_no_secrets.py
+      - name: Install maintainer tooling
+        run: python3 -m pip install --quiet -r requirements-dev.txt
+      - name: Check SKILL.md frontmatter parses
+        run: python3 scripts/check_frontmatter.py
+      - name: Check relative Markdown references
+        run: python3 scripts/check_markdown_references.py
+      - name: Offline test suite
+        run: python3 -m unittest discover -s tests -v

@@ -1,6 +1,6 @@
 # HOOK SKILL
 
-12 hook types. Each has an explanation, templates, and rules. Fill every [slot] from the user's real facts. Never copy a template's example facts. Templates marked (personal) need the user's own real event or number.
+12 hook types. Each has an explanation, templates, and rules. Templates are the fallback. Find viral posts on the idea first (HOOK SOURCE ORDER). Fill every [slot] from the user's real facts. Never copy a template's example facts. Templates marked (personal) need the user's own real event or number.
 
 ## Structure
 
@@ -21,6 +21,48 @@ Rules:
 - Can be personal: a real number from the user's own work.
 - Personal numbers come from the user only.
 
+## HOOK SOURCE ORDER
+
+Real viral posts first. Templates last.
+
+Step 1. Find similar viral posts.
+
+- Search the web for LinkedIn posts on the user's idea. Use 2 to 3 queries. Example: "LinkedIn post resume skills list mistake", "LinkedIn viral post hiring mistakes".
+- Keep a post only if it is on the same idea, from the last 12 months, and shows high reactions or comments for the creator's size. Can't see the numbers? It does not count as viral.
+- Keep up to 3 posts.
+
+Step 2. Learn the hook, not the words.
+
+- For each kept post, name the pattern: the type (1-12), the shape of the first line, what it holds back.
+- Write a new hook with the same pattern, using only the user's real facts.
+- Never copy their words. Never copy their facts or numbers.
+- Tell the user which post each hook is based on (creator name and link). The link goes in your reply, never in the post.
+
+Step 3. No match? Use templates.
+
+- Triggers: no web search, no similar viral post, or the posts have no clear hook.
+- Say so in one line: "No similar viral post found. Used templates."
+- Pick by TEMPLATE PICK below.
+
+Mixed is fine. Example: 1 pattern from a viral post, 2 from templates.
+
+## TEMPLATE PICK
+
+Choose the type that fits the post. Do not choose at random.
+
+| The user gave | Start with |
+|---|---|
+| A number from their own work | 3 Proof, 9 Surprising fact |
+| A dated story or a mistake | 10 Story, 7 Fear |
+| A strong opinion | 4 Controversial statement, 8 Emotional agreement |
+| A how-to or a list | 2 Value promise |
+| Two options or two groups | 11 X vs Y, 5 Unexplained contrast |
+| A question the audience argues about | 12 Poll |
+| A known name or result they have earned | 1 Credibility jacking |
+
+Then check GOAL FIT. If the two disagree, the goal wins and the material fills the template.
+Within a type, pick the template whose slots the user's facts fill with no gaps.
+
 ## MATERIAL TEST
 
 Before the hook, check the user gave at least one real thing: a dated moment, a number with the thing it counts, or a position they hold and what it costs them. None? Ask for one. Max 3 questions. Never fill it in.
@@ -30,7 +72,7 @@ Before the hook, check the user gave at least one real thing: a dated moment, a 
 
 ## MODE
 
-Write 3 hooks for the chosen idea, each a different type. Pick types that fit the post goal (GOAL FIT below). Label the type. Ask the user which to use.
+Write 3 hooks for the chosen idea, each a different type. Follow HOOK SOURCE ORDER: viral patterns first, templates to fill the rest. Pick types that fit the post goal (GOAL FIT below). Label each hook with its type and its source ("pattern from [creator]" or "template"). Ask the user which to use.
 
 ## GOAL FIT
 

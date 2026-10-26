@@ -1,0 +1,8 @@
+# Maintainer tooling only. The skill itself has no dependencies.
+#
+#     pip install -r requirements-dev.txt
+#     python3 scripts/selftest.py
+
+# scripts/check_frontmatter.py parses SKILL.md frontmatter strictly, so a file
+# that looks fine but does not load is caught here, not by a user.
+pyyaml>=6.0

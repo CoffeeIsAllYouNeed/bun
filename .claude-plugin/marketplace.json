@@ -1,0 +1,33 @@
+{
+  "name": "bun",
+  "owner": {
+    "name": "Vrushal More",
+    "url": "https://github.com/CoffeeIsAllYouNeed"
+  },
+  "metadata": {
+    "description": "BUN: a Claude skill that writes one publish-ready LinkedIn post, from idea to humanized final draft."
+  },
+  "plugins": [
+    {
+      "name": "bun",
+      "source": "./",
+      "description": "Claude skill that writes one publish-ready LinkedIn post: finds the idea, writes the hook, writes the body, removes AI tells. 12 hook types, 103 hook templates, 28 idea shapes.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Vrushal More",
+        "url": "https://github.com/CoffeeIsAllYouNeed"
+      },
+      "homepage": "https://github.com/CoffeeIsAllYouNeed/bun",
+      "license": "MIT",
+      "keywords": [
+        "linkedin",
+        "content-creation",
+        "social-media",
+        "claude-skills",
+        "hooks",
+        "post-writer"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

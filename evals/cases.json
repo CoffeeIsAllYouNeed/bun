@@ -1,0 +1,45 @@
+{
+  "note": "Made-up details for testing. Each case is one niche, written the way a user answers BUN's start question.",
+  "cases": [
+    {
+      "name": "invoice-follow-up",
+      "niche": "AI automation for small businesses",
+      "audience": "small business owners",
+      "goal": "saves",
+      "idea": "an automated invoice follow-up that saved a dental clinic hours of admin work",
+      "details": "The clinic has 3 admins. They chased unpaid invoices by hand for 6 hours a week. I built a flow that sends reminders on day 3, day 7, and day 14. Unpaid invoices went from 31 to 9 in 2 months."
+    },
+    {
+      "name": "resume-skills-list",
+      "niche": "Career coaching for job seekers",
+      "audience": "job seekers",
+      "goal": "saves",
+      "idea": "why a long skills list on a resume gets ignored",
+      "details": "I reviewed 40 resumes last month. 33 opened with a skills list of 6 lines or more. None of the 7 resumes that got interviews did. Those 7 all opened with one line about a result."
+    },
+    {
+      "name": "demo-calls",
+      "niche": "B2B SaaS sales",
+      "audience": "SaaS sales leaders",
+      "goal": "comments",
+      "idea": "why demo calls are lost in the first 8 minutes",
+      "details": "I listened to 25 recorded demos. In 19 of them the rep talked about features for 8 minutes before asking the buyer a question. Those 19 demos led to 2 closed deals. The other 6 demos led to 4 closed deals."
+    },
+    {
+      "name": "emergency-fund-no-details",
+      "niche": "Personal finance education",
+      "audience": "first-year earners",
+      "goal": "likes",
+      "idea": "why a first-year earner needs an emergency fund before investing",
+      "details": ""
+    },
+    {
+      "name": "salary-range",
+      "niche": "Recruiting and hiring",
+      "audience": "hiring managers",
+      "goal": "reposts",
+      "idea": "why job posts with a salary range get more applicants",
+      "details": "My team posted two identical roles on the same day. The post with a salary range got 112 applicants in 14 days. The post without one got 47."
+    }
+  ]
+}

@@ -21,7 +21,7 @@ The reference files say when to ask the user more.
 In order. Read each file only when you reach its stage, and only once per session. New turn: resume at the first unfinished stage.
 
 1. Idea (only if the user has none): read references/IDEAS.md.
-2. Hook: read references/HOOKS.md.
+2. Hook: read references/HOOKS.md. Search for similar viral posts first. Use templates only if none match.
 3. Body and end: read references/BODY.md.
 4. Humanize: read references/HUMANIZER.md. Rewrite the post to remove AI tells.
 5. Send the post. Reply style and revisions: references/TOKEN_SAVING.md.
