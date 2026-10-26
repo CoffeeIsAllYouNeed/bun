@@ -235,7 +235,7 @@ bun/
 │   └── references/           # IDEAS, HOOKS, BODY, HUMANIZER, TOKEN_SAVING
 ├── tests/                    # offline tests and fixtures
 ├── AGENTS.md  CLAUDE.md      # conventions for agents working on this repo
-├── LICENSE  NOTICE.md        # MIT license and third-party notices
+├── LICENSE                   # MIT license
 ├── SECURITY.md
 └── requirements-dev.txt      # PyYAML, for the frontmatter check
 ```
@@ -271,20 +271,11 @@ python3 scripts/check_post.py post.txt --details "the real facts you gave"
 
 ## References
 
-1. Sergey Bulaev. linkedin-skills. https://github.com/sergebulaev/linkedin-skills (MIT)
-2. blader. humanizer. https://github.com/blader/humanizer
-3. avoid-ai-writing (MIT), from the TOP-SKILLS collection.
-4. Gary Vaynerchuk. Document, Don't Create. https://www.commpro.biz/news/gary-vaynerchuk-on-document-dont-create-creating-content-that-builds-your-personal-brand
-5. MagicPost. How Often Should You Post on LinkedIn. https://magicpost.in/blog/how-often-should-you-post-on-linkedin
-6. HubSpot. How Long Should It Take You to Write a Blog Post. https://blog.hubspot.com/marketing/blogging-time-benchmark
-7. Boomp, citing Sprout Social's Social Media Productivity Report. https://boomp.net/blog/average-time-social-media-marketing
-8. Nils Liedlich. How to write a week of LinkedIn posts. https://nilsliedlich.substack.com/p/how-to-write-a-week-of-linkedin-posts
-
-## Grateful
-
-BUN learned the craft from three creators: **Pierre Herubel**, **Adam Robinson**, and **Harry Long**. Thank you.
-
-Parts of BUN were adapted, in new words, from open-source work. See [NOTICE.md](NOTICE.md).
+1. Gary Vaynerchuk. Document, Don't Create. https://www.commpro.biz/news/gary-vaynerchuk-on-document-dont-create-creating-content-that-builds-your-personal-brand
+2. MagicPost. How Often Should You Post on LinkedIn. https://magicpost.in/blog/how-often-should-you-post-on-linkedin
+3. HubSpot. How Long Should It Take You to Write a Blog Post. https://blog.hubspot.com/marketing/blogging-time-benchmark
+4. Boomp, citing Sprout Social's Social Media Productivity Report. https://boomp.net/blog/average-time-social-media-marketing
+5. Nils Liedlich. How to write a week of LinkedIn posts. https://nilsliedlich.substack.com/p/how-to-write-a-week-of-linkedin-posts
 
 ## Who builds this
 
@@ -294,9 +285,4 @@ Wanna chat? LinkedIn: [add your LinkedIn link]
 
 ## License
 
-MIT. See [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md).
-
-## Related open-source skill bundles
-
-- [linkedin-skills](https://github.com/sergebulaev/linkedin-skills) by Sergey Bulaev: 12 skills for LinkedIn posts, comments, replies, and profiles.
-- [Anthropic Skills repo](https://github.com/anthropics/skills)
+MIT. See [LICENSE](LICENSE).

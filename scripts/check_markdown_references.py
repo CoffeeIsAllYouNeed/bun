@@ -2,7 +2,7 @@
 """Check that Markdown references resolve.
 
 Covers two things:
-  1. Relative Markdown links in README.md, docs/, NOTICE.md, SECURITY.md.
+  1. Relative Markdown links in README.md, docs/, SECURITY.md.
   2. `references/X.md` mentions in skills/bun/SKILL.md and its reference files.
 
 Usage: python3 scripts/check_markdown_references.py
@@ -31,7 +31,7 @@ def link_problems(doc: Path) -> list[str]:
 
 def main() -> int:
     problems: list[str] = []
-    docs = [ROOT / n for n in ("README.md", "NOTICE.md", "SECURITY.md") if (ROOT / n).exists()]
+    docs = [ROOT / n for n in ("README.md", "SECURITY.md") if (ROOT / n).exists()]
     docs += sorted((ROOT / "docs").glob("*.md"))
     for doc in docs:
         problems += link_problems(doc)

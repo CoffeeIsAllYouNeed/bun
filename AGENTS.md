@@ -43,7 +43,3 @@ python3 scripts/selftest.py
 ```
 
 It runs the secret check, the frontmatter check, the Markdown reference check, and the offline tests. Fix everything before pushing.
-
-## Credits
-
-Material adapted from other projects goes in `NOTICE.md` with its license. Keep it up to date.
